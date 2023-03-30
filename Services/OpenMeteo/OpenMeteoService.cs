@@ -51,7 +51,5 @@ namespace WeatherBotV1.Services.OpenMeteo
             }
         }
 
-
-
     }
 }
